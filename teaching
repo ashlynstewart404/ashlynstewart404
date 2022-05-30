@@ -1,1 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <link rel="stylesheet" type="text/css" href="masterstyle.css"></link>
+   </head>
+   <body>
+      <h1 class="banner">Ashlyn Stewart</h1>
+      <h2 class="banner">Doctoral student in nineteenth-century American Literature and DH at UNL</h2>
+      <br></br>
+      <h3>Digital Archives</h3>
+      
+      
+      
+      
+      
+      <a href="full/ccda.corr00200.001.jpg"><img src="thumbs/ccda.corr00200.001.jpg"></img></a>
+      
+      
 
+      <p>Intro to Digital Humanities</p>
+      <p>Digital Archives and Editions</p>
+      <br/>
+      <p>Writing and Argument</p>
+      <p>DU Writing Classes</p>
+      <br/>
+      <p>Service-learning</p>
+      
+      
+   </body>
+</html>

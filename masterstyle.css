@@ -1,5 +1,5 @@
 html {
-    background-color:navy;
+    background-color:white;
     font-family:roman, 'times new roman', times, serif;
     color:black;
 }
@@ -10,8 +10,8 @@ body {
     font-size:18px;
     width:auto;
     height:auto;
-    margin-right:175px;
-    margin-left:175px;
+    margin-right:200px;
+    margin-left:200px;
     padding:50px;
 }
 

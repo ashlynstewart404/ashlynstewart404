@@ -1,16 +1,17 @@
-### Hi there 👋
+### I'm Ashlyn Stewart, a specialist in DH and 19C American literature, history, and culture.
 
-<!--
-**ashlynstewart404/ashlynstewart404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I serve as a Digital Scholarship Specialist at Boston College Libraries, specializing in digital archives and editions.  I also lead an interdisciplinary effort to extract and structure data from a series of 19C US almanacs.
+  
+- I hold a PhD in English from the University of Nebraska-Lincoln, where I
+  - earned a certificate in Digital Humanities,
+  - wrote a dissertation on *Harper's Weekly*,
+  - worked on the Walt Whitman Archive and the Charles W. Chesnutt Archive, and
+  - taught classes for the English department
+ 
+- My skills include:
+  - Project Management
+  - Project design and sustainability
+  - TEI/XML
+  - XSLT
+  - HTML/CSS
+    

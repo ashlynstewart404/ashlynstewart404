@@ -11,7 +11,16 @@
 - My skills include:
   - Project Management
   - Project design and sustainability
+  - Data structuring and modeling
   - TEI/XML
   - XSLT
   - HTML/CSS
+ 
+- I teach about:
+  - Digital and traditional archives
+  - Digital project scoping, creation, and management
+  - Building, designing, and writing websites
+  - Specific digital tools, like StoryMap and StoryMaps, GoogleSites, the Adobe Suite, VideoAnt, and VSCode
+  - American Literature
+  - Composition
     

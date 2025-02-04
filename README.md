@@ -12,6 +12,7 @@
   - Project Management
   - Project design and sustainability
   - Data structuring and modeling
+  - Humanities research and writing
   - TEI/XML
   - XSLT
   - HTML/CSS
